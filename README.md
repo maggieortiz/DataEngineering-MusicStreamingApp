@@ -1,2 +1,8 @@
 # DataEngineering-MusicStreamingApp
-Collection of Data Engineering Projects from Udacity Data Engineering Nano degree showing PostGres, Cassandra, Data warehouse with AWS &amp; Spark ETL using music streaming data
+Collection of Data Engineering Projects from Udacity Data Engineering Nano degree showing Data Warehouse with AWS &amp; Spark ETL using music streaming data
+
+##Data Warehouse Files: 
+- README_DataWarehouse.md - README FILE
+- dwh.cfg - AWS configuration file 
+- etl_DataWarehouse.py - ETL to add and fill tables
+- TestingNotebook_DataWarehouse.ipnb  - Testing notebook to run etl
