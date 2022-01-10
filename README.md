@@ -6,3 +6,9 @@ Collection of Data Engineering Projects from Udacity Data Engineering Nano degre
 - dwh.cfg - AWS configuration file 
 - etl_DataWarehouse.py - ETL to add and fill tables
 - TestingNotebook_DataWarehouse.ipnb  - Testing notebook to run etl
+
+##Spark ETL Files: 
+- README_DataLakeSpark.md - README FILE
+- dl.cfg - AWS configuration file 
+- etl_DataLakeSpark.py - ETL to add and fill tables
+- 
