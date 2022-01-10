@@ -1,5 +1,5 @@
-##Songify AWS Database Warehousing 
-#The goal of this project is to take the song, artist and album information and transform it from json files to a Redshift cluster with organized tables with diststyle key logic. 
+#Songify AWS Database Warehousing 
+##The goal of this project is to take the song, artist and album information and transform it from json files to a Redshift cluster with organized tables with diststyle key logic. 
 
 1. Start by Creating your AWS cluster with CreateCluster.ipynb
 2. Run create_table.py in the TestingNotebook.ipynb to create the tables in Redshift
